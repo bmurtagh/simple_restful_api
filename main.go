@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
-
+	//These packages need to be downloaded
 	"github.com/gorilla/mux"
 	_ "github.com/mattn/go-sqlite3"
 )
