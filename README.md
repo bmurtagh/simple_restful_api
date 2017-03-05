@@ -62,7 +62,7 @@ Example output:
 
 ####Note:
 
-* All request URLs are escaped and lowercase.
+* All request URIs are escaped and lowercase.
 
 
 ## POST
