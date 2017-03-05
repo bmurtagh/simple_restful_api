@@ -43,7 +43,7 @@ GET information about a specific room:
     http://localhost:8080/house/guest+bedroom
 
 
-####Example output:
+Example output:
 
     {
         "id": 2,
