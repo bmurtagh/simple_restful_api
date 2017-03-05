@@ -32,17 +32,16 @@ Table 2
 
 There are two possible GET requests.
 
-###\#1
 
 GET information about the entire house: 
 
     http://localhost:8080/house
 
-###\#2
 
 GET information about a specific room: 
 
     http://localhost:8080/house/guest+bedroom
+
 
 ####Example output:
 
